@@ -1,0 +1,800 @@
+Bulbasaur,1,1,FALSE
+Ivysaur,2,1,FALSE
+Venusaur,3,1,FALSE
+VenusaurMega Venusaur,3,1,FALSE
+Charmander,4,1,FALSE
+Charmeleon,5,1,FALSE
+Charizard,6,1,FALSE
+CharizardMega Charizard X,6,1,FALSE
+CharizardMega Charizard Y,6,1,FALSE
+Squirtle,7,1,FALSE
+Wartortle,8,1,FALSE
+Blastoise,9,1,FALSE
+BlastoiseMega Blastoise,9,1,FALSE
+Caterpie,10,1,FALSE
+Metapod,11,1,FALSE
+Butterfree,12,1,FALSE
+Weedle,13,1,FALSE
+Kakuna,14,1,FALSE
+Beedrill,15,1,FALSE
+BeedrillMega Beedrill,15,1,FALSE
+Pidgey,16,1,FALSE
+Pidgeotto,17,1,FALSE
+Pidgeot,18,1,FALSE
+PidgeotMega Pidgeot,18,1,FALSE
+Rattata,19,1,FALSE
+Raticate,20,1,FALSE
+Spearow,21,1,FALSE
+Fearow,22,1,FALSE
+Ekans,23,1,FALSE
+Arbok,24,1,FALSE
+Pikachu,25,1,FALSE
+Raichu,26,1,FALSE
+Sandshrew,27,1,FALSE
+Sandslash,28,1,FALSE
+Nidoran♀,29,1,FALSE
+Nidorina,30,1,FALSE
+Nidoqueen,31,1,FALSE
+Nidoran♂,32,1,FALSE
+Nidorino,33,1,FALSE
+Nidoking,34,1,FALSE
+Clefairy,35,1,FALSE
+Clefable,36,1,FALSE
+Vulpix,37,1,FALSE
+Ninetales,38,1,FALSE
+Jigglypuff,39,1,FALSE
+Wigglytuff,40,1,FALSE
+Zubat,41,1,FALSE
+Golbat,42,1,FALSE
+Oddish,43,1,FALSE
+Gloom,44,1,FALSE
+Vileplume,45,1,FALSE
+Paras,46,1,FALSE
+Parasect,47,1,FALSE
+Venonat,48,1,FALSE
+Venomoth,49,1,FALSE
+Diglett,50,1,FALSE
+Dugtrio,51,1,FALSE
+Meowth,52,1,FALSE
+Persian,53,1,FALSE
+Psyduck,54,1,FALSE
+Golduck,55,1,FALSE
+Mankey,56,1,FALSE
+Primeape,57,1,FALSE
+Growlithe,58,1,FALSE
+Arcanine,59,1,FALSE
+Poliwag,60,1,FALSE
+Poliwhirl,61,1,FALSE
+Poliwrath,62,1,FALSE
+Abra,63,1,FALSE
+Kadabra,64,1,FALSE
+Alakazam,65,1,FALSE
+AlakazamMega Alakazam,65,1,FALSE
+Machop,66,1,FALSE
+Machoke,67,1,FALSE
+Machamp,68,1,FALSE
+Bellsprout,69,1,FALSE
+Weepinbell,70,1,FALSE
+Victreebel,71,1,FALSE
+Tentacool,72,1,FALSE
+Tentacruel,73,1,FALSE
+Geodude,74,1,FALSE
+Graveler,75,1,FALSE
+Golem,76,1,FALSE
+Ponyta,77,1,FALSE
+Rapidash,78,1,FALSE
+Slowpoke,79,1,FALSE
+Slowbro,80,1,FALSE
+SlowbroMega Slowbro,80,1,FALSE
+Magnemite,81,1,FALSE
+Magneton,82,1,FALSE
+Farfetch'd,83,1,FALSE
+Doduo,84,1,FALSE
+Dodrio,85,1,FALSE
+Seel,86,1,FALSE
+Dewgong,87,1,FALSE
+Grimer,88,1,FALSE
+Muk,89,1,FALSE
+Shellder,90,1,FALSE
+Cloyster,91,1,FALSE
+Gastly,92,1,FALSE
+Haunter,93,1,FALSE
+Gengar,94,1,FALSE
+GengarMega Gengar,94,1,FALSE
+Onix,95,1,FALSE
+Drowzee,96,1,FALSE
+Hypno,97,1,FALSE
+Krabby,98,1,FALSE
+Kingler,99,1,FALSE
+Voltorb,100,1,FALSE
+Electrode,101,1,FALSE
+Exeggcute,102,1,FALSE
+Exeggutor,103,1,FALSE
+Cubone,104,1,FALSE
+Marowak,105,1,FALSE
+Hitmonlee,106,1,FALSE
+Hitmonchan,107,1,FALSE
+Lickitung,108,1,FALSE
+Koffing,109,1,FALSE
+Weezing,110,1,FALSE
+Rhyhorn,111,1,FALSE
+Rhydon,112,1,FALSE
+Chansey,113,1,FALSE
+Tangela,114,1,FALSE
+Kangaskhan,115,1,FALSE
+KangaskhanMega Kangaskhan,115,1,FALSE
+Horsea,116,1,FALSE
+Seadra,117,1,FALSE
+Goldeen,118,1,FALSE
+Seaking,119,1,FALSE
+Staryu,120,1,FALSE
+Starmie,121,1,FALSE
+Mr. Mime,122,1,FALSE
+Scyther,123,1,FALSE
+Jynx,124,1,FALSE
+Electabuzz,125,1,FALSE
+Magmar,126,1,FALSE
+Pinsir,127,1,FALSE
+PinsirMega Pinsir,127,1,FALSE
+Tauros,128,1,FALSE
+Magikarp,129,1,FALSE
+Gyarados,130,1,FALSE
+GyaradosMega Gyarados,130,1,FALSE
+Lapras,131,1,FALSE
+Ditto,132,1,FALSE
+Eevee,133,1,FALSE
+Vaporeon,134,1,FALSE
+Jolteon,135,1,FALSE
+Flareon,136,1,FALSE
+Porygon,137,1,FALSE
+Omanyte,138,1,FALSE
+Omastar,139,1,FALSE
+Kabuto,140,1,FALSE
+Kabutops,141,1,FALSE
+Aerodactyl,142,1,FALSE
+AerodactylMega Aerodactyl,142,1,FALSE
+Snorlax,143,1,FALSE
+Articuno,144,1,TRUE
+Zapdos,145,1,TRUE
+Moltres,146,1,TRUE
+Dratini,147,1,FALSE
+Dragonair,148,1,FALSE
+Dragonite,149,1,FALSE
+Mewtwo,150,1,TRUE
+MewtwoMega Mewtwo X,150,1,TRUE
+MewtwoMega Mewtwo Y,150,1,TRUE
+Mew,151,1,FALSE
+Chikorita,152,2,FALSE
+Bayleef,153,2,FALSE
+Meganium,154,2,FALSE
+Cyndaquil,155,2,FALSE
+Quilava,156,2,FALSE
+Typhlosion,157,2,FALSE
+Totodile,158,2,FALSE
+Croconaw,159,2,FALSE
+Feraligatr,160,2,FALSE
+Sentret,161,2,FALSE
+Furret,162,2,FALSE
+Hoothoot,163,2,FALSE
+Noctowl,164,2,FALSE
+Ledyba,165,2,FALSE
+Ledian,166,2,FALSE
+Spinarak,167,2,FALSE
+Ariados,168,2,FALSE
+Crobat,169,2,FALSE
+Chinchou,170,2,FALSE
+Lanturn,171,2,FALSE
+Pichu,172,2,FALSE
+Cleffa,173,2,FALSE
+Igglybuff,174,2,FALSE
+Togepi,175,2,FALSE
+Togetic,176,2,FALSE
+Natu,177,2,FALSE
+Xatu,178,2,FALSE
+Mareep,179,2,FALSE
+Flaaffy,180,2,FALSE
+Ampharos,181,2,FALSE
+AmpharosMega Ampharos,181,2,FALSE
+Bellossom,182,2,FALSE
+Marill,183,2,FALSE
+Azumarill,184,2,FALSE
+Sudowoodo,185,2,FALSE
+Politoed,186,2,FALSE
+Hoppip,187,2,FALSE
+Skiploom,188,2,FALSE
+Jumpluff,189,2,FALSE
+Aipom,190,2,FALSE
+Sunkern,191,2,FALSE
+Sunflora,192,2,FALSE
+Yanma,193,2,FALSE
+Wooper,194,2,FALSE
+Quagsire,195,2,FALSE
+Espeon,196,2,FALSE
+Umbreon,197,2,FALSE
+Murkrow,198,2,FALSE
+Slowking,199,2,FALSE
+Misdreavus,200,2,FALSE
+Unown,201,2,FALSE
+Wobbuffet,202,2,FALSE
+Girafarig,203,2,FALSE
+Pineco,204,2,FALSE
+Forretress,205,2,FALSE
+Dunsparce,206,2,FALSE
+Gligar,207,2,FALSE
+Steelix,208,2,FALSE
+SteelixMega Steelix,208,2,FALSE
+Snubbull,209,2,FALSE
+Granbull,210,2,FALSE
+Qwilfish,211,2,FALSE
+Scizor,212,2,FALSE
+ScizorMega Scizor,212,2,FALSE
+Shuckle,213,2,FALSE
+Heracross,214,2,FALSE
+HeracrossMega Heracross,214,2,FALSE
+Sneasel,215,2,FALSE
+Teddiursa,216,2,FALSE
+Ursaring,217,2,FALSE
+Slugma,218,2,FALSE
+Magcargo,219,2,FALSE
+Swinub,220,2,FALSE
+Piloswine,221,2,FALSE
+Corsola,222,2,FALSE
+Remoraid,223,2,FALSE
+Octillery,224,2,FALSE
+Delibird,225,2,FALSE
+Mantine,226,2,FALSE
+Skarmory,227,2,FALSE
+Houndour,228,2,FALSE
+Houndoom,229,2,FALSE
+HoundoomMega Houndoom,229,2,FALSE
+Kingdra,230,2,FALSE
+Phanpy,231,2,FALSE
+Donphan,232,2,FALSE
+Porygon2,233,2,FALSE
+Stantler,234,2,FALSE
+Smeargle,235,2,FALSE
+Tyrogue,236,2,FALSE
+Hitmontop,237,2,FALSE
+Smoochum,238,2,FALSE
+Elekid,239,2,FALSE
+Magby,240,2,FALSE
+Miltank,241,2,FALSE
+Blissey,242,2,FALSE
+Raikou,243,2,TRUE
+Entei,244,2,TRUE
+Suicune,245,2,TRUE
+Larvitar,246,2,FALSE
+Pupitar,247,2,FALSE
+Tyranitar,248,2,FALSE
+TyranitarMega Tyranitar,248,2,FALSE
+Lugia,249,2,TRUE
+Ho-oh,250,2,TRUE
+Celebi,251,2,FALSE
+Treecko,252,3,FALSE
+Grovyle,253,3,FALSE
+Sceptile,254,3,FALSE
+SceptileMega Sceptile,254,3,FALSE
+Torchic,255,3,FALSE
+Combusken,256,3,FALSE
+Blaziken,257,3,FALSE
+BlazikenMega Blaziken,257,3,FALSE
+Mudkip,258,3,FALSE
+Marshtomp,259,3,FALSE
+Swampert,260,3,FALSE
+SwampertMega Swampert,260,3,FALSE
+Poochyena,261,3,FALSE
+Mightyena,262,3,FALSE
+Zigzagoon,263,3,FALSE
+Linoone,264,3,FALSE
+Wurmple,265,3,FALSE
+Silcoon,266,3,FALSE
+Beautifly,267,3,FALSE
+Cascoon,268,3,FALSE
+Dustox,269,3,FALSE
+Lotad,270,3,FALSE
+Lombre,271,3,FALSE
+Ludicolo,272,3,FALSE
+Seedot,273,3,FALSE
+Nuzleaf,274,3,FALSE
+Shiftry,275,3,FALSE
+Taillow,276,3,FALSE
+Swellow,277,3,FALSE
+Wingull,278,3,FALSE
+Pelipper,279,3,FALSE
+Ralts,280,3,FALSE
+Kirlia,281,3,FALSE
+Gardevoir,282,3,FALSE
+GardevoirMega Gardevoir,282,3,FALSE
+Surskit,283,3,FALSE
+Masquerain,284,3,FALSE
+Shroomish,285,3,FALSE
+Breloom,286,3,FALSE
+Slakoth,287,3,FALSE
+Vigoroth,288,3,FALSE
+Slaking,289,3,FALSE
+Nincada,290,3,FALSE
+Ninjask,291,3,FALSE
+Shedinja,292,3,FALSE
+Whismur,293,3,FALSE
+Loudred,294,3,FALSE
+Exploud,295,3,FALSE
+Makuhita,296,3,FALSE
+Hariyama,297,3,FALSE
+Azurill,298,3,FALSE
+Nosepass,299,3,FALSE
+Skitty,300,3,FALSE
+Delcatty,301,3,FALSE
+Sableye,302,3,FALSE
+SableyeMega Sableye,302,3,FALSE
+Mawile,303,3,FALSE
+MawileMega Mawile,303,3,FALSE
+Aron,304,3,FALSE
+Lairon,305,3,FALSE
+Aggron,306,3,FALSE
+AggronMega Aggron,306,3,FALSE
+Meditite,307,3,FALSE
+Medicham,308,3,FALSE
+MedichamMega Medicham,308,3,FALSE
+Electrike,309,3,FALSE
+Manectric,310,3,FALSE
+ManectricMega Manectric,310,3,FALSE
+Plusle,311,3,FALSE
+Minun,312,3,FALSE
+Volbeat,313,3,FALSE
+Illumise,314,3,FALSE
+Roselia,315,3,FALSE
+Gulpin,316,3,FALSE
+Swalot,317,3,FALSE
+Carvanha,318,3,FALSE
+Sharpedo,319,3,FALSE
+SharpedoMega Sharpedo,319,3,FALSE
+Wailmer,320,3,FALSE
+Wailord,321,3,FALSE
+Numel,322,3,FALSE
+Camerupt,323,3,FALSE
+CameruptMega Camerupt,323,3,FALSE
+Torkoal,324,3,FALSE
+Spoink,325,3,FALSE
+Grumpig,326,3,FALSE
+Spinda,327,3,FALSE
+Trapinch,328,3,FALSE
+Vibrava,329,3,FALSE
+Flygon,330,3,FALSE
+Cacnea,331,3,FALSE
+Cacturne,332,3,FALSE
+Swablu,333,3,FALSE
+Altaria,334,3,FALSE
+AltariaMega Altaria,334,3,FALSE
+Zangoose,335,3,FALSE
+Seviper,336,3,FALSE
+Lunatone,337,3,FALSE
+Solrock,338,3,FALSE
+Barboach,339,3,FALSE
+Whiscash,340,3,FALSE
+Corphish,341,3,FALSE
+Crawdaunt,342,3,FALSE
+Baltoy,343,3,FALSE
+Claydol,344,3,FALSE
+Lileep,345,3,FALSE
+Cradily,346,3,FALSE
+Anorith,347,3,FALSE
+Armaldo,348,3,FALSE
+Feebas,349,3,FALSE
+Milotic,350,3,FALSE
+Castform,351,3,FALSE
+Kecleon,352,3,FALSE
+Shuppet,353,3,FALSE
+Banette,354,3,FALSE
+BanetteMega Banette,354,3,FALSE
+Duskull,355,3,FALSE
+Dusclops,356,3,FALSE
+Tropius,357,3,FALSE
+Chimecho,358,3,FALSE
+Absol,359,3,FALSE
+AbsolMega Absol,359,3,FALSE
+Wynaut,360,3,FALSE
+Snorunt,361,3,FALSE
+Glalie,362,3,FALSE
+GlalieMega Glalie,362,3,FALSE
+Spheal,363,3,FALSE
+Sealeo,364,3,FALSE
+Walrein,365,3,FALSE
+Clamperl,366,3,FALSE
+Huntail,367,3,FALSE
+Gorebyss,368,3,FALSE
+Relicanth,369,3,FALSE
+Luvdisc,370,3,FALSE
+Bagon,371,3,FALSE
+Shelgon,372,3,FALSE
+Salamence,373,3,FALSE
+SalamenceMega Salamence,373,3,FALSE
+Beldum,374,3,FALSE
+Metang,375,3,FALSE
+Metagross,376,3,FALSE
+MetagrossMega Metagross,376,3,FALSE
+Regirock,377,3,TRUE
+Regice,378,3,TRUE
+Registeel,379,3,TRUE
+Latias,380,3,TRUE
+LatiasMega Latias,380,3,TRUE
+Latios,381,3,TRUE
+LatiosMega Latios,381,3,TRUE
+Kyogre,382,3,TRUE
+KyogrePrimal Kyogre,382,3,TRUE
+Groudon,383,3,TRUE
+GroudonPrimal Groudon,383,3,TRUE
+Rayquaza,384,3,TRUE
+RayquazaMega Rayquaza,384,3,TRUE
+Jirachi,385,3,TRUE
+DeoxysNormal Forme,386,3,TRUE
+DeoxysAttack Forme,386,3,TRUE
+DeoxysDefense Forme,386,3,TRUE
+DeoxysSpeed Forme,386,3,TRUE
+Turtwig,387,4,FALSE
+Grotle,388,4,FALSE
+Torterra,389,4,FALSE
+Chimchar,390,4,FALSE
+Monferno,391,4,FALSE
+Infernape,392,4,FALSE
+Piplup,393,4,FALSE
+Prinplup,394,4,FALSE
+Empoleon,395,4,FALSE
+Starly,396,4,FALSE
+Staravia,397,4,FALSE
+Staraptor,398,4,FALSE
+Bidoof,399,4,FALSE
+Bibarel,400,4,FALSE
+Kricketot,401,4,FALSE
+Kricketune,402,4,FALSE
+Shinx,403,4,FALSE
+Luxio,404,4,FALSE
+Luxray,405,4,FALSE
+Budew,406,4,FALSE
+Roserade,407,4,FALSE
+Cranidos,408,4,FALSE
+Rampardos,409,4,FALSE
+Shieldon,410,4,FALSE
+Bastiodon,411,4,FALSE
+Burmy,412,4,FALSE
+WormadamPlant Cloak,413,4,FALSE
+WormadamSandy Cloak,413,4,FALSE
+WormadamTrash Cloak,413,4,FALSE
+Mothim,414,4,FALSE
+Combee,415,4,FALSE
+Vespiquen,416,4,FALSE
+Pachirisu,417,4,FALSE
+Buizel,418,4,FALSE
+Floatzel,419,4,FALSE
+Cherubi,420,4,FALSE
+Cherrim,421,4,FALSE
+Shellos,422,4,FALSE
+Gastrodon,423,4,FALSE
+Ambipom,424,4,FALSE
+Drifloon,425,4,FALSE
+Drifblim,426,4,FALSE
+Buneary,427,4,FALSE
+Lopunny,428,4,FALSE
+LopunnyMega Lopunny,428,4,FALSE
+Mismagius,429,4,FALSE
+Honchkrow,430,4,FALSE
+Glameow,431,4,FALSE
+Purugly,432,4,FALSE
+Chingling,433,4,FALSE
+Stunky,434,4,FALSE
+Skuntank,435,4,FALSE
+Bronzor,436,4,FALSE
+Bronzong,437,4,FALSE
+Bonsly,438,4,FALSE
+Mime Jr.,439,4,FALSE
+Happiny,440,4,FALSE
+Chatot,441,4,FALSE
+Spiritomb,442,4,FALSE
+Gible,443,4,FALSE
+Gabite,444,4,FALSE
+Garchomp,445,4,FALSE
+GarchompMega Garchomp,445,4,FALSE
+Munchlax,446,4,FALSE
+Riolu,447,4,FALSE
+Lucario,448,4,FALSE
+LucarioMega Lucario,448,4,FALSE
+Hippopotas,449,4,FALSE
+Hippowdon,450,4,FALSE
+Skorupi,451,4,FALSE
+Drapion,452,4,FALSE
+Croagunk,453,4,FALSE
+Toxicroak,454,4,FALSE
+Carnivine,455,4,FALSE
+Finneon,456,4,FALSE
+Lumineon,457,4,FALSE
+Mantyke,458,4,FALSE
+Snover,459,4,FALSE
+Abomasnow,460,4,FALSE
+AbomasnowMega Abomasnow,460,4,FALSE
+Weavile,461,4,FALSE
+Magnezone,462,4,FALSE
+Lickilicky,463,4,FALSE
+Rhyperior,464,4,FALSE
+Tangrowth,465,4,FALSE
+Electivire,466,4,FALSE
+Magmortar,467,4,FALSE
+Togekiss,468,4,FALSE
+Yanmega,469,4,FALSE
+Leafeon,470,4,FALSE
+Glaceon,471,4,FALSE
+Gliscor,472,4,FALSE
+Mamoswine,473,4,FALSE
+Porygon-Z,474,4,FALSE
+Gallade,475,4,FALSE
+GalladeMega Gallade,475,4,FALSE
+Probopass,476,4,FALSE
+Dusknoir,477,4,FALSE
+Froslass,478,4,FALSE
+Rotom,479,4,FALSE
+RotomHeat Rotom,479,4,FALSE
+RotomWash Rotom,479,4,FALSE
+RotomFrost Rotom,479,4,FALSE
+RotomFan Rotom,479,4,FALSE
+RotomMow Rotom,479,4,FALSE
+Uxie,480,4,TRUE
+Mesprit,481,4,TRUE
+Azelf,482,4,TRUE
+Dialga,483,4,TRUE
+Palkia,484,4,TRUE
+Heatran,485,4,TRUE
+Regigigas,486,4,TRUE
+GiratinaAltered Forme,487,4,TRUE
+GiratinaOrigin Forme,487,4,TRUE
+Cresselia,488,4,FALSE
+Phione,489,4,FALSE
+Manaphy,490,4,FALSE
+Darkrai,491,4,TRUE
+ShayminLand Forme,492,4,TRUE
+ShayminSky Forme,492,4,TRUE
+Arceus,493,4,TRUE
+Victini,494,5,TRUE
+Snivy,495,5,FALSE
+Servine,496,5,FALSE
+Serperior,497,5,FALSE
+Tepig,498,5,FALSE
+Pignite,499,5,FALSE
+Emboar,500,5,FALSE
+Oshawott,501,5,FALSE
+Dewott,502,5,FALSE
+Samurott,503,5,FALSE
+Patrat,504,5,FALSE
+Watchog,505,5,FALSE
+Lillipup,506,5,FALSE
+Herdier,507,5,FALSE
+Stoutland,508,5,FALSE
+Purrloin,509,5,FALSE
+Liepard,510,5,FALSE
+Pansage,511,5,FALSE
+Simisage,512,5,FALSE
+Pansear,513,5,FALSE
+Simisear,514,5,FALSE
+Panpour,515,5,FALSE
+Simipour,516,5,FALSE
+Munna,517,5,FALSE
+Musharna,518,5,FALSE
+Pidove,519,5,FALSE
+Tranquill,520,5,FALSE
+Unfezant,521,5,FALSE
+Blitzle,522,5,FALSE
+Zebstrika,523,5,FALSE
+Roggenrola,524,5,FALSE
+Boldore,525,5,FALSE
+Gigalith,526,5,FALSE
+Woobat,527,5,FALSE
+Swoobat,528,5,FALSE
+Drilbur,529,5,FALSE
+Excadrill,530,5,FALSE
+Audino,531,5,FALSE
+AudinoMega Audino,531,5,FALSE
+Timburr,532,5,FALSE
+Gurdurr,533,5,FALSE
+Conkeldurr,534,5,FALSE
+Tympole,535,5,FALSE
+Palpitoad,536,5,FALSE
+Seismitoad,537,5,FALSE
+Throh,538,5,FALSE
+Sawk,539,5,FALSE
+Sewaddle,540,5,FALSE
+Swadloon,541,5,FALSE
+Leavanny,542,5,FALSE
+Venipede,543,5,FALSE
+Whirlipede,544,5,FALSE
+Scolipede,545,5,FALSE
+Cottonee,546,5,FALSE
+Whimsicott,547,5,FALSE
+Petilil,548,5,FALSE
+Lilligant,549,5,FALSE
+Basculin,550,5,FALSE
+Sandile,551,5,FALSE
+Krokorok,552,5,FALSE
+Krookodile,553,5,FALSE
+Darumaka,554,5,FALSE
+DarmanitanStandard Mode,555,5,FALSE
+DarmanitanZen Mode,555,5,FALSE
+Maractus,556,5,FALSE
+Dwebble,557,5,FALSE
+Crustle,558,5,FALSE
+Scraggy,559,5,FALSE
+Scrafty,560,5,FALSE
+Sigilyph,561,5,FALSE
+Yamask,562,5,FALSE
+Cofagrigus,563,5,FALSE
+Tirtouga,564,5,FALSE
+Carracosta,565,5,FALSE
+Archen,566,5,FALSE
+Archeops,567,5,FALSE
+Trubbish,568,5,FALSE
+Garbodor,569,5,FALSE
+Zorua,570,5,FALSE
+Zoroark,571,5,FALSE
+Minccino,572,5,FALSE
+Cinccino,573,5,FALSE
+Gothita,574,5,FALSE
+Gothorita,575,5,FALSE
+Gothitelle,576,5,FALSE
+Solosis,577,5,FALSE
+Duosion,578,5,FALSE
+Reuniclus,579,5,FALSE
+Ducklett,580,5,FALSE
+Swanna,581,5,FALSE
+Vanillite,582,5,FALSE
+Vanillish,583,5,FALSE
+Vanilluxe,584,5,FALSE
+Deerling,585,5,FALSE
+Sawsbuck,586,5,FALSE
+Emolga,587,5,FALSE
+Karrablast,588,5,FALSE
+Escavalier,589,5,FALSE
+Foongus,590,5,FALSE
+Amoonguss,591,5,FALSE
+Frillish,592,5,FALSE
+Jellicent,593,5,FALSE
+Alomomola,594,5,FALSE
+Joltik,595,5,FALSE
+Galvantula,596,5,FALSE
+Ferroseed,597,5,FALSE
+Ferrothorn,598,5,FALSE
+Klink,599,5,FALSE
+Klang,600,5,FALSE
+Klinklang,601,5,FALSE
+Tynamo,602,5,FALSE
+Eelektrik,603,5,FALSE
+Eelektross,604,5,FALSE
+Elgyem,605,5,FALSE
+Beheeyem,606,5,FALSE
+Litwick,607,5,FALSE
+Lampent,608,5,FALSE
+Chandelure,609,5,FALSE
+Axew,610,5,FALSE
+Fraxure,611,5,FALSE
+Haxorus,612,5,FALSE
+Cubchoo,613,5,FALSE
+Beartic,614,5,FALSE
+Cryogonal,615,5,FALSE
+Shelmet,616,5,FALSE
+Accelgor,617,5,FALSE
+Stunfisk,618,5,FALSE
+Mienfoo,619,5,FALSE
+Mienshao,620,5,FALSE
+Druddigon,621,5,FALSE
+Golett,622,5,FALSE
+Golurk,623,5,FALSE
+Pawniard,624,5,FALSE
+Bisharp,625,5,FALSE
+Bouffalant,626,5,FALSE
+Rufflet,627,5,FALSE
+Braviary,628,5,FALSE
+Vullaby,629,5,FALSE
+Mandibuzz,630,5,FALSE
+Heatmor,631,5,FALSE
+Durant,632,5,FALSE
+Deino,633,5,FALSE
+Zweilous,634,5,FALSE
+Hydreigon,635,5,FALSE
+Larvesta,636,5,FALSE
+Volcarona,637,5,FALSE
+Cobalion,638,5,TRUE
+Terrakion,639,5,TRUE
+Virizion,640,5,TRUE
+TornadusIncarnate Forme,641,5,TRUE
+TornadusTherian Forme,641,5,TRUE
+ThundurusIncarnate Forme,642,5,TRUE
+ThundurusTherian Forme,642,5,TRUE
+Reshiram,643,5,TRUE
+Zekrom,644,5,TRUE
+LandorusIncarnate Forme,645,5,TRUE
+LandorusTherian Forme,645,5,TRUE
+Kyurem,646,5,TRUE
+KyuremBlack Kyurem,646,5,TRUE
+KyuremWhite Kyurem,646,5,TRUE
+KeldeoOrdinary Forme,647,5,FALSE
+KeldeoResolute Forme,647,5,FALSE
+MeloettaAria Forme,648,5,FALSE
+MeloettaPirouette Forme,648,5,FALSE
+Genesect,649,5,FALSE
+Chespin,650,6,FALSE
+Quilladin,651,6,FALSE
+Chesnaught,652,6,FALSE
+Fennekin,653,6,FALSE
+Braixen,654,6,FALSE
+Delphox,655,6,FALSE
+Froakie,656,6,FALSE
+Frogadier,657,6,FALSE
+Greninja,658,6,FALSE
+Bunnelby,659,6,FALSE
+Diggersby,660,6,FALSE
+Fletchling,661,6,FALSE
+Fletchinder,662,6,FALSE
+Talonflame,663,6,FALSE
+Scatterbug,664,6,FALSE
+Spewpa,665,6,FALSE
+Vivillon,666,6,FALSE
+Litleo,667,6,FALSE
+Pyroar,668,6,FALSE
+Flabébé,669,6,FALSE
+Floette,670,6,FALSE
+Florges,671,6,FALSE
+Skiddo,672,6,FALSE
+Gogoat,673,6,FALSE
+Pancham,674,6,FALSE
+Pangoro,675,6,FALSE
+Furfrou,676,6,FALSE
+Espurr,677,6,FALSE
+MeowsticMale,678,6,FALSE
+MeowsticFemale,678,6,FALSE
+Honedge,679,6,FALSE
+Doublade,680,6,FALSE
+AegislashBlade Forme,681,6,FALSE
+AegislashShield Forme,681,6,FALSE
+Spritzee,682,6,FALSE
+Aromatisse,683,6,FALSE
+Swirlix,684,6,FALSE
+Slurpuff,685,6,FALSE
+Inkay,686,6,FALSE
+Malamar,687,6,FALSE
+Binacle,688,6,FALSE
+Barbaracle,689,6,FALSE
+Skrelp,690,6,FALSE
+Dragalge,691,6,FALSE
+Clauncher,692,6,FALSE
+Clawitzer,693,6,FALSE
+Helioptile,694,6,FALSE
+Heliolisk,695,6,FALSE
+Tyrunt,696,6,FALSE
+Tyrantrum,697,6,FALSE
+Amaura,698,6,FALSE
+Aurorus,699,6,FALSE
+Sylveon,700,6,FALSE
+Hawlucha,701,6,FALSE
+Dedenne,702,6,FALSE
+Carbink,703,6,FALSE
+Goomy,704,6,FALSE
+Sliggoo,705,6,FALSE
+Goodra,706,6,FALSE
+Klefki,707,6,FALSE
+Phantump,708,6,FALSE
+Trevenant,709,6,FALSE
+PumpkabooAverage Size,710,6,FALSE
+PumpkabooSmall Size,710,6,FALSE
+PumpkabooLarge Size,710,6,FALSE
+PumpkabooSuper Size,710,6,FALSE
+GourgeistAverage Size,711,6,FALSE
+GourgeistSmall Size,711,6,FALSE
+GourgeistLarge Size,711,6,FALSE
+GourgeistSuper Size,711,6,FALSE
+Bergmite,712,6,FALSE
+Avalugg,713,6,FALSE
+Noibat,714,6,FALSE
+Noivern,715,6,FALSE
+Xerneas,716,6,TRUE
+Yveltal,717,6,TRUE
+Zygarde50% Forme,718,6,TRUE
+Diancie,719,6,TRUE
+DiancieMega Diancie,719,6,TRUE
+HoopaHoopa Confined,720,6,TRUE
+HoopaHoopa Unbound,720,6,TRUE
+Volcanion,721,6,TRUE

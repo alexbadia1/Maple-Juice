@@ -1,0 +1,2 @@
+Pikachu,"pokegen,Pikachu,25,1,FALSE"
+Pikachu "pokestats,Electric,,320,35,55,40,50,50,90"

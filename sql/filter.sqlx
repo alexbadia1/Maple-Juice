@@ -1,0 +1,3 @@
+SELECT *
+FROM demo
+WHERE Video.*Radio
