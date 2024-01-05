@@ -2,7 +2,57 @@
 
 Welcome to the MapleJuice Project!
 
-## Demo Script
+Please see the [report.pdf](report.pdf) for background information.
+
+The [hadoop](hadoop/) folder contains map-reduce that we benchmarked MapleJuice against.
+
+## Quickstart
+
+```bash
+# 0. Ensure you have python 3.6.8 or higher
+python3 --version
+
+# 1. Clone
+git clone https://github.com/your-username/MapleJuice.git
+cd MapleJuice
+
+# 2. Setup
+pip install .
+
+# 3. Activate MapleJuice
+maplejuice
+
+# Simple Distributed File System (SDFS) Command Cheatsheet
+#
+# Create and update files (base_dir is a relative directory the script was invoked in)
+sdfs put -local_filename bible.txt -sdfs_filename foo.txt -base_dir ../large.txt
+
+# List all files the Name Node knows about (defaults to fa23-cs425-7810.cs.illinois.edu)
+#
+sdfs ls
+
+# List files stored on a data node (choices=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+#
+sdfs store -dn 1
+
+# Retrieve a file from the SDFS
+#
+sdfs get -sdfs_filename illiad.txt -local_filename result.txt
+#
+# Delete the file from the SDFS
+#
+sdfs delete -sdfs_filename foo.txt
+#
+# Membership Failure Detection Command Cheatsheet
+#
+# Activates a CLI menu program to send admin commands to the underlying membership detection service
+membership
+```
+
+
+## Demo Script Cheatsheet
+
+A cheatsheet of anticipated commands for demo to the teaching assistants. 
 
 ```console
 
@@ -53,69 +103,4 @@ sdfs get -sdfs_filename BLANK-out2 -local_filename BLANK-out2-result.txt
 sql sql/filter.sqlx -sdfs_dest_filename filter-result.txt -partition_type r
 sdfs get -sdfs_filename champaign.txt -local_filename filter-result.txt
 ```
-
-## Report
-```console
-
-# 0. Load data
-sdfs put-dir -dir ../data
-
-# 1. Simple Query
-sql-filter Address_Points "^Lakeshore$" -sdfs_dest_filename address_data.txt -partition_type r
-sdfs get -local_filename lakeshore-points.txt -sdfs_filename address_data.txt
-
-# 2. Complex Query
-sql-filter Address_Points "^\d{3}.*\d{5}$" -sdfs_dest_filename complex1.txt -partition_type r
-sdfs get -sdfs_filename complex.txt -local_filename complex-results.txt
-
-# 3. Simple SQL Joins
-sdfs put-dir -dir ../pokemon
-sql-join sql/pokemon.sql -sdfs_dest_filename pokemon -partition_type r 
-
-sdfs put-dir -dir ../names
-sql-join sql/names.sql -sdfs_dest_filename names -partition_type r 
-```
-
-
-## Quickstart
-
-```bash
-# 0. Ensure you have python 3.6.8 or higher
-python3 --version
-
-# 1. Clone
-git clone https://github.com/your-username/MapleJuice.git
-cd MapleJuice
-
-# 2. Setup
-pip install .
-
-# 3. Activate MapleJuice
-maplejuice
-
-# Simple Distributed File System (SDFS) Command Cheatsheet
-#
-# Create and update files (base_dir is a relative directory the script was invoked in)
-sdfs put -local_filename bible.txt -sdfs_filename foo.txt -base_dir ../large.txt
-
-# List all files the Name Node knows about (defaults to fa23-cs425-7810.cs.illinois.edu)
-#
-sdfs ls
-
-# List files stored on a data node (choices=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
-#
-sdfs store -dn 1
-
-# Retrieve a file from the SDFS
-#
-sdfs get -sdfs_filename illiad.txt -local_filename result.txt
-#
-# Delete the file from the SDFS
-#
-sdfs delete -sdfs_filename foo.txt
-#
-# Membership Failure Detection Command Cheatsheet
-#
-# Activates a CLI menu program to send admin commands to the underlying membership detection service
-membership
 ```
